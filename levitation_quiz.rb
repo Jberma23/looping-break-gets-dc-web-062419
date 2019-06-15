@@ -8,7 +8,7 @@ def levitation_quiz
 	  answer == "Wingardium Leviosa"
 	  
 	end
-	puts "You passed the quiz"
+	puts "You passed the quiz!"
 	end
 
 
